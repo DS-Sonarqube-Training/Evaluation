@@ -13,7 +13,7 @@
 	<artifactId>restfulwebservices</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>restfulwebservices</name>
+	<name>TrainingEvaluation</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
